@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kellykim0996@gmail.com
+	name = Kelly Kim
